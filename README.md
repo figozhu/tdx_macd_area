@@ -1,7 +1,7 @@
 # 通达信macd面积公式
 使用效果：
 
-![](pic\demo.png)
+![](https://github.com/figozhu/tdx_macd_area/blob/main/pic/demo.png)
 
 
 
