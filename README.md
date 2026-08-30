@@ -1,3 +1,5 @@
+
+
 # 通达信macd面积公式
 使用效果：
 
@@ -21,3 +23,4 @@ STICKLINE(红面积, 0, 红面积, 3, 0),COLORRED;
 STICKLINE(绿面积, 0, 绿面积, 3, 0),COLORGREEN;
 ```
 
+其中 `TDXDLL1` 的第一个参数 `1` 对应源码中的 `MacdArea` 函数。
